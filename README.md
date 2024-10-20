@@ -1,4 +1,4 @@
-<h1 align="center"> <Hello World> 👋, I'm Rohit Sangole</h1>
+<h1 align="center">  Hello World 👋, I'm Rohit Sangole</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
 
